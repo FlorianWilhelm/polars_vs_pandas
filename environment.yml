@@ -1,0 +1,13 @@
+name: polars
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  # BASICS
+  - numpy
+  - pandas
+  - jupyterlab
+  - pip:
+     - polars
