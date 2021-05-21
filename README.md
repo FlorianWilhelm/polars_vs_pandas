@@ -14,7 +14,7 @@ In order to set up the necessary environment:
    ```
    conda activate polars
    ```
-3. call `jupyter lab` to start the [Jupyter] environment.
+3. call `jupyter lab` to start the [Jupyter] environment and open the [pl_vs_pd notebook](pl_vs_pd.ipynb).
 
 [conda]: https://docs.conda.io/
 [Jupyter]: https://jupyter.org/
